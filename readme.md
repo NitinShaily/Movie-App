@@ -10,4 +10,12 @@ Web App to visualise top rated movie
 ## Technolgies used
 >> HTML  
 >> CSS  
->> JavaScript
+>> JavaScript  
+
+# DEMO  
+  
+![screen-gif](./movie-app-demo.gif)  
+ 
+ 
+ 
+ Link to website: https://nitinshaily.github.io/Movie-App/
