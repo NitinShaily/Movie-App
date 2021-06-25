@@ -1,6 +1,6 @@
 # Movie-App  
 ## Discription
-Web App to visualise to rated movie
+Web App to visualise top rated movie
 
 ## Functionalities
 > Quick Search to sort movies on the basis of need  
