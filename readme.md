@@ -3,13 +3,13 @@
 Web App to visualise top rated movie
 
 ## Functionalities
-> Quick Search to sort movies on the basis of need  
-> Description of the movie on the hover of the mouse over movie template  
+> 1.  Quick Search to sort movies on the basis of need  
+> 2. Description of the movie on the hover of the mouse over movie template  
 
 ## Technolgies used
->> HTML  
->> CSS  
->> JavaScript  
+> HTML  
+> CSS  
+> JavaScript  
 
 # DEMO  
   
