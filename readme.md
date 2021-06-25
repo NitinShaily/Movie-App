@@ -13,7 +13,7 @@ Web App to visualise top rated movie
 
 # DEMO  
   
-> ![screen-gif](./movie-app-demo.gif)  
+> ![screen-gif](./docs/movie-app-demo.gif)  
  
  
  
