@@ -1,17 +1,17 @@
 # Movie-App  
-## Description
+### Description
 Web App to visualise top rated movie
 
-## Functionalities
-> 1.  Quick Search to sort movies on the basis of need  
-> 2. Description of the movie on the hover of the mouse over movie template  
+### Functionalities
+> 1.  Quick Search to sort movies.  
+> 2. Description of the movie on the hover of the mouse over movie templates.  
 
-## Technolgies used
-> HTML  
-> CSS  
-> JavaScript  
+### Technologies used
+- HTML  
+- CSS  
+- JavaScript  
 
-# DEMO  
+### DEMO  
   
 > ![screen-gif](./docs/movie-app-demo.gif)  
  
