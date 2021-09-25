@@ -15,7 +15,7 @@ getMovies(APIURL);
 async function getMovies(url){
     const resp = await fetch(url);      //fetching data from api (by default GET method)
     const resData = await resp.json();      //converting to json format
-    console.log(resData);
+    // console.log(resData);
 
     showMovies(resData.results);
 }
